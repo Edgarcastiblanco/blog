@@ -11,12 +11,13 @@ padding: 0;
 }
 #cabercera
 { background: blue;
-color:white ;
+color: red ;
 margin: 0;
-padding: 1.3cm;
+padding: 0.5cm;
 font-weight: bold;
-font-size: 100px;
-image-resolution: 20%;
+font-size: 40px;
+text-align: left;
+background-position: right;
 }
 
 
